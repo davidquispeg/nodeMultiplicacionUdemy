@@ -1,0 +1,15 @@
+{
+  "name": "bases-de-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Quispe",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.12.2",
+    "yargs": "^12.0.5"
+  }
+}
